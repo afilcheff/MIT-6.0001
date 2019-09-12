@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 12 20:51:02 2019
-
-@author: admin030518
-"""
-
 annual_salary = int(input('Input your annual salary: '))
 portion_saved = float(input('Input your portion of salary to be saved: '))
 total_cost = int(input('Input the cost of your dream home: '))
