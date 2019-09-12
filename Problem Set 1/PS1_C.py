@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 13 01:05:02 2019
-
-@author: admin030518
-"""
+#guessing the best savings rate given some conditions in order to save an amount for a house, using 'bisection search' algorithm
 
 year_salary = int(input('Input yearly salary: '))
 semi_annual_raise = 0.07
